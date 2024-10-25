@@ -1,0 +1,36 @@
+16:43:29.856 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - Starting Login Test....
+16:43:29.864 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - Click My Account in Home Page....
+16:43:39.916 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Starting Login Test....
+16:43:39.916 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Click My Account in Home Page....
+16:43:39.933 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Login Test Failed
+16:43:39.933 [TestNG-tests-1] ERROR testCases.TC002_LoginTest - no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='input-email']"}
+  (Session info: MicrosoftEdge=129.0.2792.79)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [e960d669cd3cd183f109f828a02e1091, findElement {value=//*[@id='input-email'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.79, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51040}, msedge: {msedgedriverVersion: 129.0.2792.79 (47754e458450..., userDataDir: C:\Users\sunil\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51040/devtoo..., se:cdpVersion: 129.0.2792.79, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e960d669cd3cd183f109f828a02e1091
+16:43:40.043 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - Click Login link under MyAccount....
+16:43:40.270 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Click Login link under MyAccount....
+16:43:50.750 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - Login Test Failed
+16:43:50.750 [TestNG-tests-3] ERROR testCases.TC002_LoginTest - element not interactable
+  (Session info: MicrosoftEdge=129.0.2792.79)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [e960d669cd3cd183f109f828a02e1091, clickElement {id=f.16C503F959F0C1E08962EB4E2513DF80.d.AFB9CBFDB2C01A0F28E7AA41E5C036F2.e.96}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.79, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51040}, msedge: {msedgedriverVersion: 129.0.2792.79 (47754e458450..., userDataDir: C:\Users\sunil\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51040/devtoo..., se:cdpVersion: 129.0.2792.79, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (e960d669cd3cd183f109f828a02e1091)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Login']]
+Session ID: e960d669cd3cd183f109f828a02e1091
+16:44:00.855 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Login Test Failed
+16:44:00.855 [TestNG-tests-2] ERROR testCases.TC002_LoginTest - element not interactable
+  (Session info: MicrosoftEdge=129.0.2792.79)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [e960d669cd3cd183f109f828a02e1091, clickElement {id=f.16C503F959F0C1E08962EB4E2513DF80.d.AFB9CBFDB2C01A0F28E7AA41E5C036F2.e.96}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.79, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51040}, msedge: {msedgedriverVersion: 129.0.2792.79 (47754e458450..., userDataDir: C:\Users\sunil\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51040/devtoo..., se:cdpVersion: 129.0.2792.79, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (e960d669cd3cd183f109f828a02e1091)] -> xpath: //ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Login']]
+Session ID: e960d669cd3cd183f109f828a02e1091
